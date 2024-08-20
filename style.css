@@ -19,6 +19,8 @@
 .card-photo {
     width: 100%;
     height: auto;
+    position: relative
+    padding: 40px
     border-radius: 50%;
     object-fit: cover;
 }
